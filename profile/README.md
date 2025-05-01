@@ -1,6 +1,6 @@
 ## VerifyThis 2025
 
-This GitHub organization is used for the VerifyThis 2025 competition, a hybrid verification competition event held on May 3-4 as a part of ETAPS 2025 at McMaster University, Hamilton, Canada.
+This GitHub organization is used for the VerifyThis 2025 competition, a hybrid verification competition event held on May 3-4 as part of ETAPS 2025 at McMaster University, Hamilton, Canada.
 
 More information about the event, including its program are available at:
 
