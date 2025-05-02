@@ -19,7 +19,7 @@ private copy of the template repository for that challenge. The template reposit
 When a challenge is released, we will update this page to publish a GitHub Classroom link that will automate the process of creating the challenge repository for you. 
 
 After clicking on the link, select the name of your team to join it or
-if your team does not yet exist, create a new team. Please do not use whitespace characters in the team name. If you are part of a two-person team, please coordinate with your other team member. Only one of you should create the team and the other one should then join that team. The assignment system will allow at most two people to join the same team.
+if your team does not yet exist, create a new team. Please do not use whitespace characters in the team name. If you are part of a two-person team, please coordinate with your teammate. Only one of you should create the team and the other one should then join that team. The assignment system will allow at most two people to join the same team.
 
 After accepting the assignment, a fresh private repository will be created for your team within this GitHub organization. The repository will be available at
 `https://github.com/VerifyThis2025/challenge-<CHALLENGE-NUMBER>-<YOUR-TEAM-NAME>`
