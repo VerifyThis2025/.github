@@ -23,7 +23,7 @@ if your team does not yet exist, create a new team. Please do not use whitespace
 
 After accepting the assignment, a fresh private repository will be created for your team within this GitHub organization. The repository will be available at
 `https://github.com/VerifyThis2025/challenge-<CHALLENGE-NUMBER>-<YOUR-TEAM-NAME>`
-where <YOUR-TEAM-NAME> is your team's name in all lower case characters. For example, if your team's name is `TuringsHeirs`, then the created repository for the first challenge will be at `https://github.com/VerifyThis2025/challenge-1-turingsheirs`.
+where `<YOUR-TEAM-NAME>` is your team's name in all lower case characters. For example, if your team's name is `TuringsHeirs`, then the created repository for the first challenge will be at `https://github.com/VerifyThis2025/challenge-1-turingsheirs`.
 
 * Open a browser at `https://github.com/VerifyThis2025/challenge-<CHALLENGE-NUMBER>-<YOUR-TEAM-NAME>` to confirm that the repository has been created.
 * Choose a place on your computer for your copy of the repository to reside and open a terminal to that location.
