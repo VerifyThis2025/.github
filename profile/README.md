@@ -13,7 +13,7 @@ There will be four verification challenges published throughout the day of the c
 * Challenge 1 (Challenge Session 1)
 * Challenge 2 (Challenge Session 2)
 * [Challenge 3](https://classroom.github.com/a/YfdXtSfE) (Challenge Session 3)
-* [Challenge 4](https://classroom.github.com/a/ghhZ3MU6) (Challenge Session 3)
+* [Challenge 4](https://classroom.github.com/a/xfm1G3zI) (Challenge Session 3)
 
 
 ### Getting your copy of the challenge repositories
