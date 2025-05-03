@@ -10,6 +10,11 @@ https://www.pm.inf.ethz.ch/research/verifythis.html
 
 There will be four verification challenges published throughout the day of the competition. 
 
+* [Challenge 1](https://classroom.github.com/a/qDziS6gk) (Challenge Session 1)
+* Challenge 2 (Challenge Session 2)
+* Challenge 3 (Challenge Session 3)
+* Challenge 4 (Challenge Session 3)
+
 
 ### Getting your copy of the challenge repositories
 
