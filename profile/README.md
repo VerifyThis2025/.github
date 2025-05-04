@@ -10,10 +10,10 @@ https://www.pm.inf.ethz.ch/research/verifythis.html
 
 There will be four verification challenges published throughout the day of the competition. 
 
-* Challenge 1 (Challenge Session 1)
-* Challenge 2 (Challenge Session 2)
-* Challenge 3
-* Challenge 4
+* [Challenge 1](https://github.com/VerifyThis2025/challenge-1)
+* [Challenge 2](https://github.com/VerifyThis2025/challenge-2)
+* [Challenge 3](https://github.com/VerifyThis2025/challenge-3)
+* [Challenge 4](https://github.com/VerifyThis2025/challenge-4)
 
 
 ### Getting your copy of the challenge repositories
